@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  tareasemana1
+//  busquedaDeLibros
 //
-//  Created by CAAPPLEPC on 7/30/16.
-//  Copyright © 2016 Carolina Arnez. All rights reserved.
+//  
+//  Copyright © 2016 Christian Arnez. All rights reserved.
 //
 
 import UIKit
@@ -35,7 +35,6 @@ class ViewController: UIViewController {
     }
 
     @IBAction func search(sender: AnyObject) {
-        print ("Resultado del campo TextField:\(isbn.text!)")
         sincrono()
     }
     
