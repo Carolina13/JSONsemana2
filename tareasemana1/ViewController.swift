@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  busquedaDeLibros
+//  semana2
 //
 //  
-//  Copyright © 2016 Christian Arnez. All rights reserved.
+//  Copyright © 2016 Carolina Arnez. All rights reserved.
 //
 
 import UIKit
